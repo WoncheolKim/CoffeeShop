@@ -43,6 +43,10 @@ body {
   background: var(--bg);
 }
 
+section{
+  padding:2rem 7%;
+}
+
 .btn {
   margin-top: 1rem;
   display: inline-block;
@@ -207,6 +211,10 @@ body {
   }
 }
 
+section{
+  padding:2rem;
+}
+
 @media (max-width: 768px) {
   #menu-btn {
     display: inline-block;
@@ -253,4 +261,14 @@ body {
   background:url(../images/home-img.jpeg) no-repeat;
   background-size: cover;
   background-position: center;
+}
+
+.home .content{
+  max-width: 60rem;
+}
+
+.home .contect h3{
+  font-size: 6rem;
+  text-transform: uppercase;
+  color:#fff;
 }
