@@ -238,6 +238,15 @@ section {
   color: #eee;
 }
 
+.about .row{
+  display: flex;
+  align-items: center;
+  background:var(--black);
+  flex-wrap: wrap;
+}
+
+
+
 @media (max-width: 991px) {
   html {
     font-size: 55%;
