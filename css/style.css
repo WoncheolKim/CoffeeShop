@@ -245,7 +245,13 @@ section {
   flex-wrap: wrap;
 }
 
+.about .row .image{
+  flex:1 1 45rem;
+}
 
+.about .row .image img{
+  width: 100%;
+}
 
 @media (max-width: 991px) {
   html {
