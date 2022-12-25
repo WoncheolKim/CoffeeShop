@@ -270,6 +270,15 @@ about .row .content{
   line-height: 1.8;
 }
 
+.menu .box-container{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+  gap:1.5rem;
+}
+
+
+
+
 
 
 @media (max-width: 991px) {
