@@ -308,6 +308,10 @@ about .row .content{
   background: #fff;
 }
 
+.menu .box-container .box:hover > *{
+  color:var(--black);
+}
+
 
 @media (max-width: 991px) {
   html {
