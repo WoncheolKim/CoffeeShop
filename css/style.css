@@ -304,6 +304,9 @@ about .row .content{
   text-decoration: line-through;
 }
 
+.menu .box-container .box:hover{
+  background: #fff;
+}
 
 
 @media (max-width: 991px) {
