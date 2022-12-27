@@ -286,6 +286,11 @@ about .row .content{
   height: 10rem;
 }
 
+.menu .box-container .box h3{
+  color: #fff;
+  font-size: 2rem;
+  padding:1rem 0;
+}
 
 
 
