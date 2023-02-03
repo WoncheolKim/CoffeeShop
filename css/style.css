@@ -312,6 +312,21 @@ about .row .content{
   color:var(--black);
 }
 
+.products .box-container{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+  gap:1.5rem;
+}
+
+.products .box-container .box{
+  text-align: center;
+  border:var(--border);
+  padding: 2rem;
+}
+
+
+
+
 
 @media (max-width: 991px) {
   html {
