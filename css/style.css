@@ -343,7 +343,12 @@ about .row .content{
 }
 
 .products .box-container .box .image img{
-  height: 2.5rem 0;
+  height: 25rem;
+}
+
+.products .box-container .box .image h3{
+  color: #fff;
+  font-size: 2.5rem;
 }
 
 
