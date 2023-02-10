@@ -382,6 +382,12 @@ about .row .content{
   gap: 1.5rem;
 }
 
+.review .box-container .box{
+  border:var(--border);
+  text-align: center;
+  padding:3rem 2rem;
+}
+
 
 
 @media (max-width: 991px) {
