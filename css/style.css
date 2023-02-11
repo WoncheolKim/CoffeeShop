@@ -408,6 +408,10 @@ about .row .content{
   color:#fff;
 }
 
+.review .box-container .box .stars i{
+  font-size: 1.5rem;
+  color:var(--main-color);
+}
 
 
 
