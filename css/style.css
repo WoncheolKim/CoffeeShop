@@ -415,7 +415,6 @@ about .row .content{
 
 .contact .row{
   display: flex;
-  align-items: center;
   background: var(--black);
   flex-wrap: wrap;
   gap:1rem;
@@ -438,6 +437,17 @@ about .row .content{
   font-size: 3.5rem;
   color: #fff;
 } 
+
+.contact .row form .inputBox{
+  display: flex;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  background:var(--black);
+  border:var(--border);
+}
+
+
 
 
 @media (max-width: 991px) {
