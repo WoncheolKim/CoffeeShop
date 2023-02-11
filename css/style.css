@@ -402,6 +402,12 @@ about .row .content{
   object-fit: cover;
 }
 
+.review .box-container .box .h3{
+  padding:1rem 0;
+  font-size: 2rem;
+  color:#fff;
+}
+
 
 
 
