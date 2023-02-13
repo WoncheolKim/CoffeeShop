@@ -484,6 +484,11 @@ about .row .content{
   width:100%;
 }
 
+.blogs .box-container.box:hover .image img{
+  transform: scale(1.2);
+}
+
+
 @media (max-width: 991px) {
   html {
     font-size: 55%;
