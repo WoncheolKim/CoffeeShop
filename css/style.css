@@ -478,6 +478,11 @@ about .row .content{
   width:100%;
 }
 
+.blogs .box-container .box .image img{
+  height: 100%;
+  overflow: cover;
+  width:100%;
+}
 
 @media (max-width: 991px) {
   html {
