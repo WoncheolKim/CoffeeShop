@@ -498,6 +498,19 @@ about .row .content{
   color: #fff;
 }
 
+.blogs .box-container .box .content .title:hover{
+  color:var(--main-color);
+}
+
+.blogs .box-container .box .content span{
+  color:var(--main-color);
+  display: block;
+  padding-top: 1rem;
+  font-size: 2rem;
+}
+
+
+
 @media (max-width: 991px) {
   html {
     font-size: 55%;
