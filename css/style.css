@@ -462,6 +462,13 @@ about .row .content{
   background: none;
 }
 
+.blogs .box-container{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+  gap:1.5rem;
+}
+
+
 
 
 @media (max-width: 991px) {
