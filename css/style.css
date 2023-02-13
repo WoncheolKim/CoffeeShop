@@ -517,12 +517,12 @@ about .row .content{
 }
 
 .footer{
-  background: var(--black);
+  background:var(--black);
   text-align: center;
 }
 
 .footer .share{
-  padding: 1rem 0;
+  padding:1rem 0;
 }
 
 .footer .share a{
@@ -530,7 +530,7 @@ about .row .content{
   width: 5rem;
   line-height: 5rem;
   font-size: 2rem;
-  color: #fff;
+  color:#fff;
   border:var(--border);
   margin:.3rem;
   border-radius: 50%;
@@ -549,15 +549,27 @@ about .row .content{
 }
 
 .footer .links a{
-  padding: 7rem 2rem;
-  color: #fff;
-  border:var(--border)
+  padding:.7rem 2rem;
+  color:#fff;
+  border:var(--border);
   font-size: 2rem;
 }
 
 .footer .links a:hover{
+  background:var(--main-color);
+}
+
+.footer .credit{
+  font-size: 2rem;
+  color:#fff;
+  font-weight: lighter;
+  padding:1.5rem;
+}
+
+.footer .credit span{
   color:var(--main-color);
 }
+
 
 
 @media (max-width: 991px) {
