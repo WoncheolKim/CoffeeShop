@@ -536,6 +536,10 @@ about .row .content{
   border-radius: 50%;
 }
 
+.footer .share a:hover{
+  background-color: var(--main-color);
+}
+
 
 @media (max-width: 991px) {
   html {
