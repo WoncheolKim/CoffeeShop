@@ -509,6 +509,13 @@ about .row .content{
   font-size: 2rem;
 }
 
+.blogs .box-container .box .content p{
+  font-size: 1.6rem;
+  line-height: 1.8;
+  color: #ccc;
+  padding:1rem 0;
+}
+
 
 
 @media (max-width: 991px) {
