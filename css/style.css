@@ -472,6 +472,11 @@ about .row .content{
   border:var(--border);
 }
 
+.blogs .box-container .box .image{
+  height: 25rem;
+  overflow:hidden;
+  width:100%;
+}
 
 
 @media (max-width: 991px) {
